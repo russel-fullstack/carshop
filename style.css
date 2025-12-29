@@ -71,7 +71,7 @@ header nav ul li:hover::after{
     border-radius: 10px;
 }
 section{
-    background-image: url(./bg-home.jpg);
+    background-image: url(./images/bg-home.jpg);
     background-size: cover;
     height: 100vh;
 }
