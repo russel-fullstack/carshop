@@ -45,14 +45,15 @@ header nav ul li::before{
     background-color: orangered;
     height: 3px;
     width: 0%;
-    transition: all 0.5s ease;
+    top: -5px;
+    transition: all 0.5s ease;  
 }
 header nav ul li::after {
     content: "";
     position: absolute;
     background-color: orangered;
     left: 0;
-    bottom: 0;
+    bottom: -5px;
     height: 3px;
     width: 0%;
     transition: all 0.5s ease;
